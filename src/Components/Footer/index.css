@@ -1,0 +1,18 @@
+.minha_footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 3rem;
+    background-color: rgb(39, 32, 45);
+    color: white;
+}
+
+.link_footer {
+    text-decoration: none;
+    color: white;
+    margin-left: 5px;
+}
+
+.link_footer:hover {
+    color: rgb(128, 100, 239);
+}
