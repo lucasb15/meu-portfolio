@@ -1,7 +1,10 @@
 import 'bootstrap/dist/css/bootstrap.css';
 import NavBar from './Components/NavBar'
 import Home from './Components/Home';
-import Sobre from './Components/Sobre'
+import Sobre from './Components/Sobre';
+import Projetos from './Components/Projetos';
+import Experiencia from './Components/Experiencia';
+
 
 function App() {
   return (
@@ -9,6 +12,8 @@ function App() {
       <NavBar />
       <Home />
       <Sobre />
+      <Projetos />
+      <Experiencia />
     </>
   );
 }

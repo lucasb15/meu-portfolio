@@ -3,7 +3,7 @@
     flex-wrap: wrap;
 }
 
-.card {
+.card_skill {
     display: flex;
     padding: 1.625rem 2.375rem;
     width: 7rem;
@@ -27,4 +27,36 @@
 
 .nome_skill {
     font-size: 0.75rem;
+}
+
+@media screen and (min-width: 768px) {
+    .card_skill {
+        width: 8rem;
+        height: 8rem;
+    }
+    
+    .logo {
+        width: 3rem;
+        height: 3rem;
+    }
+    
+    .nome_skill {
+        font-size: 1rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .card_skill {
+        width: 9rem;
+        height: 9rem;
+    }
+    
+    .logo {
+        width: 3.5rem;
+        height: 3.5rem;
+    }
+    
+    .nome_skill {
+        font-size: 1.25rem;
+    }
 }

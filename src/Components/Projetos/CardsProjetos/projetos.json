@@ -1,0 +1,9 @@
+[
+    {
+        "imagem": "/assets/projetos/jokenpo.png",
+        "nome": "Jo Ken Po",
+        "descricao": "Jogo de cartas baseado em Pedra, papel e tesouta feito com Javascript puro",
+        "link": "https://jo-ken-po-nu.vercel.app/",
+        "github": "https://github.com/lucasb15/Jo-ken-po"
+    }
+]

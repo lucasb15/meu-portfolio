@@ -1,0 +1,46 @@
+.cards_projetos {
+    display: flex;
+    align-items: center;
+    padding: 5px 2px 2px;
+    background: #474057;
+    color: white;
+}
+
+.imagem_projeto {
+    width: 15rem !important;
+    border-radius: 1rem;
+}
+
+.botao_projetos {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.estilo_link {
+    text-decoration: none;
+}
+
+.link_projeto {
+    display: flex;
+    padding: 0.25rem 1.5rem 0.3125rem 1.5625rem;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 0.9375rem;
+    border: 1px solid #000;
+    background: linear-gradient(90deg, #AC69FF 0%, #9EEEFF 100%);
+    text-decoration: none;
+
+}
+
+.link_github {
+    display: flex;
+    padding: 0.25781rem 1.125rem 0.30469rem 1.125rem;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 0.9375rem;
+    background: #000;
+    text-decoration: none;
+}

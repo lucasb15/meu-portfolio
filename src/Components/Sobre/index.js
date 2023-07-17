@@ -3,7 +3,7 @@ import Skills from "./Skills";
 
 export default function Sobre() {
     return (
-        <div>
+        <div id="sobre">
             <Eu />
             <Skills />
         </div>
