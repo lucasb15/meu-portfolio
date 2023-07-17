@@ -1,0 +1,4 @@
+.bg-body-tertiary {
+    --bs-navbar-color: white !important;
+    --bs-tertiary-bg-rgb: 45, 40, 52;
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "Home",
+        "src": "#home"
+    },
+    {
+        "nome": "Sobre",
+        "src": "#sobre"
+    },
+    {
+        "nome": "Projetos",
+        "src": "#projetos"
+    },
+    {
+        "nome": "Experiência",
+        "src": "#experiencia"
+    },
+    {
+        "nome": "Contato",
+        "src": "#contato"
+    }
+]
