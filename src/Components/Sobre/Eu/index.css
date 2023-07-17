@@ -1,0 +1,18 @@
+.container_sobre {
+    color: white;
+    margin: 3rem 1rem;
+}
+
+.titulo {
+    color: #D3AEFF;
+}
+
+@media screen and (min-width: 425px) {
+    .titulo {
+        font-size: 28px;
+    }
+
+    .conteudo_sobre {
+        font-size: 18px;
+    }
+}

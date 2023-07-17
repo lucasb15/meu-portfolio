@@ -1,0 +1,38 @@
+[
+    {
+        "nome": "React",
+        "src": "./assets/skills/react.svg"
+    },
+    {
+        "nome": "GitHub",
+        "src": "/assets/skills/github.svg"
+    },
+    {
+        "nome": "MySQL",
+        "src": "/assets/skills/mysql.svg"
+    },
+    {
+        "nome": "HTML",
+        "src": "/assets/skills/html.svg"
+    },
+    {
+        "nome": "CSS",
+        "src": "/assets/skills/css.svg"
+    },
+    {
+        "nome": "JavaScript",
+        "src": "/assets/skills/javascript.svg"
+    },
+    {
+        "nome": "TypeScript",
+        "src": "/assets/skills/typescript.svg"
+    },
+    {
+        "nome": "Node",
+        "src": "/assets/skills/node.svg"
+    },
+    {
+        "nome": "MongoDB",
+        "src": "/assets/skills/mongodb.svg"
+    }
+]
