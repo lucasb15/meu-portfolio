@@ -34,5 +34,13 @@
     {
         "nome": "MongoDB",
         "src": "/assets/skills/mongodb.svg"
+    },
+    {
+        "nome": "Photoshop",
+        "src": "./assets/skills/photoshop.svg"
+    },
+    {
+        "nome": "Figma",
+        "src": "./assets/skills/figma.svg"
     }
 ]
