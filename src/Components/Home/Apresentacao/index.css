@@ -1,0 +1,35 @@
+.apresentacao {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 7rem;
+}
+
+.nome, .profissao {
+    font-size: 18px;
+}
+
+.nome {
+    color: #B131FF;
+}
+
+@media screen and (min-width: 374px) {
+    .nome, .profissao {
+        font-size: 24px;
+    }
+
+    .texto {
+        font-size: 18px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .nome, .profissao {
+        font-size: 30px;
+    }
+
+    .texto {
+        font-size: 24px;
+    }
+}

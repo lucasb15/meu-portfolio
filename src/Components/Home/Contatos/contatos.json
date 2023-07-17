@@ -1,0 +1,22 @@
+[
+    {
+        "nome":"Logo do GitHub",
+        "imagem":"/assets/contatos/github.svg",
+        "src":"https://github.com/lucasb15"
+    },
+    {
+        "nome":"Logo do Linkedin",
+        "imagem":"/assets/contatos/linkedin.svg",
+        "src":"https://www.linkedin.com/in/lucasb15/"
+    },
+    {
+        "nome":"Logo do Whatsapp",
+        "imagem":"/assets/contatos/whatsapp.svg",
+        "src":"tel:+5544988053832"
+    },
+    {
+        "nome":"Logo do E-mail",
+        "imagem":"/assets/contatos/email.svg",
+        "src":"mailto:lgsantos306@gmail.com"
+    }
+]

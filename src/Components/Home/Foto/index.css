@@ -1,0 +1,19 @@
+.imagem {
+    display: none;
+}
+
+@media screen and (min-width: 580px) {
+    .imagem {
+        display: block;
+    }
+
+    .tamanho_imagem {
+        width: 12rem;
+    }
+}
+
+@media screen and (min-width: 700px) {
+    .tamanho_imagem {
+        width: 17rem;
+    }
+}
