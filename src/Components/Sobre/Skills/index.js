@@ -3,7 +3,7 @@ import "./index.css";
 
 export default function Skills() {
     return (
-        <div className="container">
+        <div className="container meu_container">
             <h3 className="titulo">Minhas Skills ( )</h3>
             <div className="card_skills">
                 {skill.map(item => (

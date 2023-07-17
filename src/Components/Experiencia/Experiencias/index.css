@@ -1,0 +1,42 @@
+.empresa {
+    display: flex;
+    align-items: center;
+}
+
+.logo_empresa {
+    width: 50px;
+    margin-right: 1rem;
+    border-radius: 50px;
+}
+
+.empresa, .cargo {
+    font-size: 16px;
+}
+
+.meu_cargo {
+    margin-top: 1rem;
+}
+
+.descricao {
+    font-size: 14px;
+}
+
+@media screen and (min-width: 375px) {
+    .empresa, .cargo {
+        font-size: 18px;
+    }
+
+    .descricao {
+        font-size: 16px;
+    }
+}
+
+@media screen and (min-width: 375px) {
+    .empresa, .cargo {
+        font-size: 1.5rem;
+    }
+
+    .descricao {
+        font-size: 1rem;
+    }
+}

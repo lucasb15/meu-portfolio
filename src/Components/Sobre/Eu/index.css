@@ -2,6 +2,10 @@
     color: white;
 }
 
+.meu_container {
+    margin-top: 2rem;
+}
+
 .titulo {
     color: #D3AEFF;
 }
