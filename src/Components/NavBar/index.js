@@ -10,7 +10,7 @@ export default function NavBar() {
         <header className="header">
             <Navbar collapseOnSelect expand="lg" className="bg-body-tertiary" bg="dark" data-bs-theme="dark">
                 <Container>
-                    <Navbar.Brand href="#home">LGS</Navbar.Brand>
+                    <Navbar.Brand href="#home"><img src="/assets/logo.png" alt="Logo Provisório do Portfólio" className="img_logo"/></Navbar.Brand>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Collapse id="responsive-navbar-nav">
                         <Nav className="me-auto">

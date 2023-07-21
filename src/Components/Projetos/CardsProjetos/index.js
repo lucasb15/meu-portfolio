@@ -8,12 +8,17 @@ export default function Cards() {
         <>
             {projetos.map(item => (
                 <Card className='cards_projetos' style={{ width: '18rem' }}>
-                    <Card.Img variant="top" src={item.imagem} className='imagem_projeto'/>
+                    <Card.Img variant="top" src={item.imagem} className='imagem_projeto' />
                     <Card.Body>
                         <Card.Title>{item.nome}</Card.Title>
                         <Card.Text>
                             {item.descricao}
                         </Card.Text>
+                        <div className='tecnologias_utilizadas'>
+                            {item.tecnologias.map(item => (
+                                <img src={`/assets/skills/${item}.svg`} alt='teste' className='logos_tecnologias'/>
+                            ))}
+                        </div>
                     </Card.Body>
                     <Card.Body className='botao_projetos'>
                         <a href={item.link} className='estilo_link'><Button className='link_projeto'>Abrir</Button></a>

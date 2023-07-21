@@ -2,17 +2,29 @@
     display: none;
 }
 
-@media screen and (min-width: 580px) {
+@media screen and (min-width: 540px) {
     .imagem {
         display: block;
     }
 
     .tamanho_imagem {
-        width: 12rem;
+        width: 8rem;
+    }
+}
+
+@media screen and (min-width: 610px) {
+    .tamanho_imagem {
+        width: 10rem;
     }
 }
 
 @media screen and (min-width: 700px) {
+    .tamanho_imagem {
+        width: 13rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
     .tamanho_imagem {
         width: 17rem;
     }
